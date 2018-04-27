@@ -1,0 +1,31 @@
+[12-Oct-2017 09:36:04 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/admin/config.php on line 13
+[12-Oct-2017 09:36:04 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/admin/config.php on line 22
+[12-Oct-2017 09:36:04 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/index.php on line 302
+[12-Oct-2017 09:36:04 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/index.php on line 346
+[25-Oct-2017 19:20:46 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/search-firm.php on line 124
+[25-Oct-2017 19:20:46 Asia/Dubai] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/search-firm.php on line 154
+[29-Oct-2017 09:51:33 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/doctors.php on line 207
+[29-Oct-2017 09:51:44 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/doctor-profile.php on line 188
+[29-Oct-2017 09:53:09 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/doctors.php on line 207
+[29-Oct-2017 09:56:17 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/doctors.php on line 207
+[29-Oct-2017 10:03:26 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/hospital-detail.php on line 214
+[29-Oct-2017 10:03:32 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/hospital-detail.php on line 214
+[31-Oct-2017 12:44:03 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/doctor-department.php on line 94
+[31-Oct-2017 12:44:03 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/doctor-department.php on line 164
+[31-Oct-2017 12:44:03 Asia/Dubai] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/doctor-department.php on line 213
+[14-Nov-2017 19:47:22 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/nutritionist-department.php on line 94
+[14-Nov-2017 19:47:22 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/nutritionist-department.php on line 164
+[14-Nov-2017 19:47:22 Asia/Dubai] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/nutritionist-department.php on line 210
+[18-Nov-2017 09:01:58 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/hospital-detail.php on line 289
+[22-Nov-2017 17:53:29 Asia/Dubai] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/doctors.php on line 108
+[28-Nov-2017 12:02:58 Asia/Dubai] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/hospital-detail.php on line 278
+[28-Nov-2017 12:02:58 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/hospital-detail.php on line 369
+[07-Dec-2017 18:02:11 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/search-firm.php on line 125
+[07-Dec-2017 18:02:11 Asia/Dubai] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/search-firm.php on line 155
+[07-Dec-2017 18:16:09 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/doctor-department.php on line 94
+[07-Dec-2017 18:16:09 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/doctor-department.php on line 164
+[07-Dec-2017 18:16:09 Asia/Dubai] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/doctor-department.php on line 210
+[10-Dec-2017 14:09:48 UTC] PHP Parse error:  syntax error, unexpected end of file in /home/demojmusr/public_html/alodawaa/final/index.php on line 182
+[11-Dec-2017 08:42:25 UTC] PHP Warning:  Unterminated comment starting line 405 in /home/demojmusr/public_html/alodawaa/final/hospital-detail.php on line 405
+[16-Dec-2017 10:03:13 Asia/Dubai] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/hospital-detail.php on line 293
+[16-Dec-2017 10:03:13 Asia/Dubai] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/demojmusr/public_html/alodawaa/final/hospital-detail.php on line 384

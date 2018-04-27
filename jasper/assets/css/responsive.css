@@ -1,0 +1,311 @@
+@media (min-width:1280px) { /* hi-res laptops and desktops */ 
+  .dn-desk{
+	display:none !important;
+}
+}
+
+
+
+
+
+/* Medium Layout: 1200px. */
+@media only screen and (min-width: 992px) and (max-width: 1200px) {
+
+/** Hero Section css **/	
+.col-md-12.slider-content h1 {    
+    font-size: 64px;
+	margin: 0 0 20px;
+}
+.col-md-12.slider-content p { 
+    margin: 0 0 30px;
+	padding: 0 150px;
+}
+.owl-stage-outer{
+	overflow:hidden !important;
+}
+
+/*------ 404 Page ------*/
+
+.error-page-solid-color {   
+    padding: 100px 0px 0px;
+}
+
+.error-page-left h1{
+   font-size: 150px;
+}
+.error-page-left h1 span img {
+    width: 100px;
+}
+.error-page-left h1 span {
+    margin-right: 20px;
+    margin-left: 15px;
+}
+.error-page-left h2 {
+    margin: 30px 0px 0px;
+    font-size: 26px;
+}    
+ .error-page-left .health-care-btn {
+     margin-bottom: 50px;
+}
+.dn-desk{
+	display:none !important;
+}
+
+}
+
+/* Tablet Layout: 768px. */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+
+/** Hero Section css **/
+.logo {
+    text-align: center;
+}
+.main-menu ul {
+    text-align: center;
+}
+.slider-content {
+    margin-top: 75px;
+}
+.col-md-12.slider-content h1 {    
+    font-size: 50px; 
+	margin:0 0 20px
+}
+.col-md-12.slider-content p { 
+    margin: 0 0 30px;
+	padding: 0 40px;	
+}
+
+.owl-stage-outer{
+	overflow:hidden !important;
+}
+/** Contact Informatin **/
+.shape {
+    background-position: center bottom;   
+}
+.doctor-image {
+  display: none;
+}
+
+/** Team Section **/
+.team-bg.team-bg-shape img {
+    height: 200px;
+}
+/** Contact Inf **/
+.contact-info {  
+  margin-bottom: 30px; 
+}
+/** Blog Post **/
+.blog-post {
+  height: 150px;
+}
+/** Footer Section **/
+.footer-wid h3{
+	font-size:18px	
+}
+
+.footer-text p {
+    font-size: 13px;
+}
+.footer-menu ul li a {
+    font-size: 13px;
+}
+.site-preloader{
+	display:none;
+}
+    
+/*------ 404 Page ------*/  
+    
+.error-page-solid-color {   
+    padding: 30px 0px 0px;
+}
+.error-page-left{
+     text-align: center;   
+    }  
+.error-page-left h1{
+   font-size: 150px;
+}
+.error-page-left h1 span img {
+    width: 100px;
+}
+.error-page-left h1 span {
+    margin-right: 20px;
+    margin-left: 15px;
+}
+.error-page-left h2 {
+    margin: 30px 0px 0px;
+    font-size: 26px;
+}    
+ .error-page-left .health-care-btn {
+     margin-bottom: 50px;
+    }
+.error-page-right{
+        display: none;
+    }
+	.single-slider-item {
+  height: 940px !important; 
+}
+.dn-desk{
+	display:none !important;
+}
+}
+.error-page-left p {
+    color: #fff;
+    margin: 30px 0px 50px 0px;
+}
+
+
+/* Mobile Layout: 320px. */
+@media only screen and (max-width: 767px) {
+.section-title h2 {
+  color: #5e5e5e;
+  margin: 10px 0 0;
+  padding: 0;
+  font-size: 26px;
+  line-height: 36px;
+}
+.site-preloader{
+	display:none;
+}
+.owl-stage-outer{
+	overflow:hidden !important;
+}
+.logo {
+  padding: 0px 0 0;
+}	
+.main-menu {
+    display: none;
+}
+
+.responsive-menu-wrap {
+  display: block;
+  margin-top: -22px;
+  position: absolute;
+  right: 10px;
+  top: 50%;
+}
+.slicknav_btn.slicknav_open {
+  border-radius: 0;
+  padding: 15px;
+}
+.slicknav_nav {
+  background: #333 none repeat scroll 0 0;
+  margin-top: 62px;
+  padding: 15px;
+  width: 200px;
+}
+.slicknav_btn {
+  background-color:#222;
+  margin:0; 
+}
+.slicknav_menu {
+  background: none;
+}
+
+.slicknav_btn.slicknav_collapsed { 
+  border-radius: 0;
+  margin: 0;
+  padding: 15px;
+}
+.slicknav_menu {
+  padding: 0;
+}
+.slider-content {
+    margin-top: 70px;
+}
+.col-md-12.slider-content h1 {
+    font-size: 36px;
+    font-weight: normal;
+    line-height: 46px;
+    
+}
+.single-service-item h3 {
+	margin: 20px 0;
+	padding: 0;
+}
+.col-md-12.slider-content p {
+	font-size: 16px;
+	padding: 0;  
+}
+
+.single-slider-item {
+  height: 800px;
+ 
+}
+.doctor-image {
+  display: none;
+}
+.single-service-item {
+  padding: 30px;  
+  text-align: center;
+}
+.single-service-item i {    
+   position:unset;
+}
+.intro-video.video-img a img {
+  left: 31%;
+ }
+.contact-info {
+  margin-top: 30px;
+}
+.doctor-img {
+  height: 235px;
+}
+.footer-wid ul {
+  margin: 20px 0px 29px; 
+}
+.footer-text p {
+  font-size: 12px;
+  text-align: center;
+}
+.footer-menu.text-right ul {
+  text-align: center;
+}
+.footer-menu ul li a {
+  font-size: 12px;
+  padding-left: 14px;
+}
+
+/*------ 404 Page ------*/    
+    
+ .error-page-solid-color {   
+    padding: 30px 0px 0px;
+}
+.error-page-left{
+     text-align: center;   
+    }  
+.error-page-left h1{
+   font-size: 120px;
+}
+.error-page-left h1 span img {
+    width: 80px;
+}
+.error-page-left h1 span {
+    margin-right: 20px;
+    margin-left: 15px;
+}
+.error-page-left h2 {
+    margin: 30px 0px 0px;
+    font-size: 26px;
+}    
+ .error-page-left .health-care-btn {
+     margin-bottom: 50px;
+    }
+.error-page-right{
+        display: none;
+    }
+	.newsletter {
+    padding: 0 0 0 0 !important;
+}
+.dn-mob{
+	display:none !important;
+}
+.p-100{
+	padding-top: 0 !important;
+}
+
+}
+/* Wide Mobile Layout: 480px. */
+@media only screen and (min-width: 480px) and (max-width: 767px) { 
+
+    
+}
