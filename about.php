@@ -1,6 +1,6 @@
 <?php 
 include_once("admin/config.php");
-//get about page details
+////get about page details
 $rslt=mysqli_query($con,"select t1.*,t2.description as desc2 from tbl_pages t1 left join tbl_page_description t2 on t1.id=t2.pageId where t1.id=1");
 $row=mysqli_fetch_assoc($rslt);
 $pageText=$row["description"];
